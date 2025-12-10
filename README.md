@@ -7,9 +7,9 @@
 ### Skills
 + Создание чек-листов, тест-кейсов, баг репортов и тест плана
   - [Чек-лист на клавиатуру Logitech](https://docs.google.com/spreadsheets/d/165pgLf36hk7sNHpZMn_qptmEW2PvNLru/edit?gid=1434793168#gid=1434793168)
-  - [Чек-лист на калькулятор](https://docs.google.com/spreadsheets/d/1bZ7XImtEn4YGj5v1yAi6ROUf6Z3cTZx4vUgW044M0iw/edit?gid=0#gid=0), [Ссылка на калькулятор](https://drive.google.com/file/d/15b-AUnOxt605LCznbdcj1Op2jDuhjVM4/view?usp=drive_link)
+  - [Чек-лист на калькулятор](https://docs.google.com/spreadsheets/d/1bZ7XImtEn4YGj5v1yAi6ROUf6Z3cTZx4vUgW044M0iw/edit?gid=0#gid=0) Заметка: [Ссылка на калькулятор](https://drive.google.com/file/d/15b-AUnOxt605LCznbdcj1Op2jDuhjVM4/view?usp=drive_link)
   - [баг репорт на калькулятор](https://app.clickup.com/90151625861/v/l/6-901515318471-1)
-  - [баг репорт на анкету для оценки качества образования](https://app.clickup.com/90151625861/v/l/6-901515933625-1). [ссылка на анкету, файлы для скачивания](https://drive.google.com/drive/folders/1k25RvleZTV72uO_Rp9bqiEnXyBUWcgGT?usp=drive_link)
+  - [баг репорт на анкету для оценки качества образования](https://app.clickup.com/90151625861/v/l/6-901515933625-1) Заметка: [ссылка на анкету, файлы для скачивания](https://drive.google.com/drive/folders/1k25RvleZTV72uO_Rp9bqiEnXyBUWcgGT?usp=drive_link)
   - [тест кейсы на анкету для оценки качества образования](https://belhard-academy.testcaselab.com/projects/111/test_cases?created_by=19415) (возможно, понадобится авторизация)
   - [тест план](https://docs.google.com/document/d/1OY3mKNuADHSHr_4Z3YBwCSzfTXZxpJ3B24VLiBzNytc/edit?tab=t.0) (искать по имени: Максим)
 + Методологии разработки ПО (Agile, Scrum, Kanban)
