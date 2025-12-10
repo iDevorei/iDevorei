@@ -1,5 +1,9 @@
-## Максим Козловский
-### Software Testing Engineer
+# Максим Козловский
+## Software Testing Engineer
+### контактные данные
+|:phone: мобильный телефон|:inbox_tray: электронная почта|:link: ссылка|:globe_with_meridians: локация|
+|     :---:    |     :---:      |     :---:     |     :---:     |
+|+375 29 199 31 99|messewalter@gmail.com|[GitHub](https://github.com/iDevorei)|Minsk, Belarus|
 <!--
 **iDevorei/iDevorei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
