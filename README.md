@@ -8,7 +8,7 @@
 ## Skills :pen:
 + SQL
   - [код задач](https://github.com/iDevorei/SQL/blob/main/README.md)
-+ API (Postman)
++ API (Postman) (REST)
   - [импорт postman файла](https://github.com/iDevorei/API/tree/main)
 + Нагрузочное тестирование (JMeter)
   - [импорт JMeter файла](https://github.com/iDevorei/JMeter)
