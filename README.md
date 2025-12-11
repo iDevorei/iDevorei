@@ -42,9 +42,9 @@ Visual Studio Code, Git, Github, Github Desktop, Postman, JMeter, Android Studio
 Любознательный, целеустремленный, адаптивный, командный игрок.
 
 ## Языки :white_flag:
-|Русский|Белорусский|Английский|
+|Русский :ru: |Белорусский|Английский|
 |:---:|:---:|:---:|
-|Носитель :ru:|Носитель :belarus:|A1 (in progress) :uk:|
+|Носитель|Носитель :belarus:|A1 (in progress) :uk:|
 <!--
 **iDevorei/iDevorei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
