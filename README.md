@@ -1,10 +1,11 @@
 # Максим Козловский
-## Software Testing Engineer
+### Software Testing Engineer
 ### Контактные данные
 |:phone: мобильный телефон|:inbox_tray: электронная почта|:link: ссылка|:globe_with_meridians: локация|
 |     :---:    |     :---:      |     :---:     |     :---:     |
 |+375 29 199 31 99 (WhatsApp, Telegram, Viber)|messewalter@gmail.com|[GitHub](https://github.com/iDevorei)|Minsk, Belarus|
-### Skills
+
+## Skills :pen:
 + SQL
   - [код задач](https://github.com/iDevorei/SQL/blob/main/README.md)
 + API (Postman)
@@ -29,6 +30,21 @@
   - [тест кейсы на анкету для оценки качества образования](https://belhard-academy.testcaselab.com/projects/111/test_cases?created_by=19415) (возможно, понадобится авторизация)
   - [тест план](https://docs.google.com/document/d/1OY3mKNuADHSHr_4Z3YBwCSzfTXZxpJ3B24VLiBzNytc/edit?tab=t.0) (искать по имени: Максим)
 + Теория тестирования
+
+## Инструменты :hammer_and_wrench:
+Visual Studio Code, Git, Github, Github Desktop, Postman, JMeter, Android Studio, Android Debug Bridge(adb), Proxyman, Vysor, Chrome DevTools, Clickup, Figma(basic).
+
+## Образование :scroll:
+* БГУКИ - **Белорусский государственный университет культуры и искусств**: 2014-2018. **Факультет**: ф. информационно-документных коммуникаций. **Специализация**: Библиотечно-информационная деятельность (автоматизация). [proof](https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_01.jpeg)
+* Белхард - **Belhard Academy**: 2025. **Специализация**: Software Testing Engineer. [proof](https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_02.jpeg)
+
+## Soft скилы :handshake:
+Любознательный, целеустремленный, адаптивный, командный игрок.
+
+## Языки :white_flag:
+|Русский|Белорусский|Английский|
+|:---:|:---:|:---:|
+|Носитель :ru:|Носитель :belarus:|A1 (in progress) :uk:|
 <!--
 **iDevorei/iDevorei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
