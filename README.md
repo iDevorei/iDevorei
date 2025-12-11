@@ -32,7 +32,7 @@
 + Теория тестирования
 
 ## Инструменты :hammer_and_wrench:
-Visual Studio Code, Git, Github, Github Desktop, Postman, JMeter, Android Studio, Android Debug Bridge(adb), Proxyman, Vysor, Chrome DevTools, Clickup, Figma(basic).
+Visual Studio Code, Git, Github, Github Desktop, Postman, JMeter, Android Studio, Android Debug Bridge(adb), Proxyman, Vysor, Open Server, Chrome DevTools, Clickup, Figma(basic).
 
 ## Образование :scroll:
 * БГУКИ - **Белорусский государственный университет культуры и искусств**: 2014-2018. **Факультет**: ф. информационно-документных коммуникаций. **Специализация**: Библиотечно-информационная деятельность (автоматизация). [proof](https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_01.jpeg)
