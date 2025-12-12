@@ -6,30 +6,25 @@
 |+375 29 199 31 99 (WhatsApp, Telegram, Viber)|messewalter@gmail.com|[GitHub](https://github.com/iDevorei)|Minsk, Belarus|
 
 ## Skills :pen:
-+ SQL
-  - [код задач](https://github.com/iDevorei/SQL/blob/main/README.md)
-+ API (Postman) (REST)
-  - [импорт postman файла](https://github.com/iDevorei/API/tree/main)
-+ Нагрузочное тестирование (JMeter)
-  - [импорт JMeter файла](https://github.com/iDevorei/JMeter)
-+ Мобильное тестирование (Android)
++ **SQL**: [код задач](https://github.com/iDevorei/SQL/blob/main/README.md)
++ **API** (Postman) (REST): [импорт postman файла](https://github.com/iDevorei/API/tree/main)
++ **Нагрузочное тестирование** (JMeter): [импорт JMeter файла](https://github.com/iDevorei/JMeter) 
++ **Мобильное тестирование** (Android):
   - Coming soon!!!
-+ HTML, CSS
-  - [одностраничный лендинг](https://github.com/iDevorei/Exam_html_css)
-+ JavaScript
-  - [код задач](https://github.com/iDevorei/JS_Homeworks)
-+ Методологии разработки ПО (Agile, Scrum, Kanban)
-+ Техники тест дизайна
++ **HTML, CSS**: [одностраничный лендинг](https://github.com/iDevorei/Exam_html_css)
++ **JavaScript**: [код задач](https://github.com/iDevorei/JS_Homeworks)
++ **Методологии разработки ПО** (Agile, Scrum, Kanban)
++ **Техники тест дизайна**:
    - [классы эквивалентности и граничные значения](https://docs.google.com/spreadsheets/d/1Z7ugUKIrm8t8bT8OrIdlMYkMa-ouNfZO/edit?gid=788685796#gid=788685796)
    - [попарное тестирование](https://docs.google.com/spreadsheets/d/1PKEEAiBJbgixdd2xDONkGPqzA01i8dIy/edit?gid=1465317084#gid=1465317084)
-+ Создание чек-листов, тест-кейсов, баг репортов и тест плана
++ **Создание чек-листов, тест-кейсов, баг репортов и тест плана**:
   - [Чек-лист на клавиатуру Logitech](https://docs.google.com/spreadsheets/d/165pgLf36hk7sNHpZMn_qptmEW2PvNLru/edit?gid=1434793168#gid=1434793168)
   - [Чек-лист на калькулятор](https://docs.google.com/spreadsheets/d/1bZ7XImtEn4YGj5v1yAi6ROUf6Z3cTZx4vUgW044M0iw/edit?gid=0#gid=0) Заметка: [Ссылка на калькулятор](https://drive.google.com/file/d/15b-AUnOxt605LCznbdcj1Op2jDuhjVM4/view?usp=drive_link)
   - [баг репорт на калькулятор](https://app.clickup.com/90151625861/v/l/6-901515318471-1)
   - [баг репорт на анкету для оценки качества образования](https://app.clickup.com/90151625861/v/l/6-901515933625-1) Заметка: [ссылка на анкету, файлы для скачивания](https://drive.google.com/drive/folders/1k25RvleZTV72uO_Rp9bqiEnXyBUWcgGT?usp=drive_link)
   - [тест кейсы на анкету для оценки качества образования](https://docs.google.com/spreadsheets/d/1taHEcmh_8KN20FzakYks51O7wNRkgFu1HcezHGmMTcQ/edit?gid=2012493889#gid=2012493889)
   - [тест план](https://docs.google.com/document/d/1OY3mKNuADHSHr_4Z3YBwCSzfTXZxpJ3B24VLiBzNytc/edit?tab=t.0) (искать по имени: Максим)
-+ Теория тестирования
++ **Теория тестирования**
 
 ## Инструменты :hammer_and_wrench:
 Visual Studio Code, Git, Github, Github Desktop, Postman, JMeter, Android Studio, Android Debug Bridge(adb), Proxyman, Vysor, Open Server, Chrome DevTools, Clickup, Figma(basic).
