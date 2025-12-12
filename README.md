@@ -3,7 +3,7 @@
 ### Контактные данные
 |:phone: мобильный телефон|:inbox_tray: электронная почта|:link: ссылка|:globe_with_meridians: локация|
 |     :---:    |     :---:      |     :---:     |     :---:     |
-|+375 29 199 31 99 (WhatsApp, Telegram, Viber)|messewalter@gmail.com|[LinkedIn](www.linkedin.com/in/max-kazlouski-tqa)|Minsk, Belarus|
+|+375 29 199 31 99 (WhatsApp, Telegram, Viber)|messewalter@gmail.com|[LinkedIn](https://www.youtube.com/)|Minsk, Belarus|
 
 ## Skills :pen:
 + **SQL**: [код задач](https://github.com/iDevorei/SQL/blob/main/README.md)
