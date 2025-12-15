@@ -39,7 +39,7 @@ Visual Studio Code, Git, Github, Github Desktop, Postman, JMeter, Android Studio
 ## Языки :white_flag:
 |Русский :ru: |Белорусский :belarus: |Английский :uk: |
 |:---:|:---:|:---:|
-|Носитель|Носитель|A1 (in progress)|
+|Носитель|Носитель|A2 [Certificate](https://cert.efset.org/en/Ft4NJV)|
 <!--
 **iDevorei/iDevorei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
