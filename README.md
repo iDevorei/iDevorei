@@ -11,7 +11,7 @@
 + **Нагрузочное тестирование** (JMeter): [импорт JMeter файла](https://github.com/iDevorei/JMeter) 
 + **Мобильное тестирование** (Android):
   - Coming soon!!!
-+ **HTML, CSS**: [одностраничный лендинг](https://github.com/iDevorei/Exam_html_css)
++ **HTML, CSS**: [одностраничный лендинг](https://idevorei.github.io/Exam_html_css/), код вёрстки: [ссылка](https://github.com/iDevorei/Exam_html_css)
 + **JavaScript**: [код задач](https://github.com/iDevorei/JS_Homeworks)
 + **Методологии разработки ПО** (Agile, Scrum, Kanban)
 + **Техники тест дизайна**:
