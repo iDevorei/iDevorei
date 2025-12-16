@@ -9,7 +9,7 @@
 + **SQL**: [код задач](https://github.com/iDevorei/SQL/blob/main/README.md)
 + **API** (Postman) (REST):
   - коллекция запростов и тестов [описание](https://github.com/iDevorei/API/tree/main)
-  - тесты и json-schema [star wars API](https://github.com/iDevorei/API/tree/main)
+  - тесты и json-schema [star wars API](https://github.com/iDevorei/API_star_wars)
 + **Нагрузочное тестирование** (JMeter): [импорт JMeter файла](https://github.com/iDevorei/JMeter) 
 + **Мобильное тестирование** (Android):
   - Coming soon!!!
