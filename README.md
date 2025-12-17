@@ -12,7 +12,7 @@
   - тесты и json-schema [star wars API](https://github.com/iDevorei/API_star_wars)
 + **Нагрузочное тестирование** (JMeter): [импорт JMeter файла](https://github.com/iDevorei/JMeter) 
 + **Мобильное тестирование** (Android):
-  - Coming soon!!!
+  - работа с [траффиком](https://github.com/iDevorei/mobile_testing/tree/catch_the_traffic?tab=readme-ov-file). Процесс: [Ссылка](https://youtu.be/13SNW_fT8PI)
 + **HTML, CSS**: [одностраничный лендинг](https://idevorei.github.io/Exam_html_css/), код вёрстки: [ссылка](https://github.com/iDevorei/Exam_html_css)
 + **JavaScript**: [код задач](https://github.com/iDevorei/JS_Homeworks)
 + **Методологии разработки ПО** (Agile, Scrum, Kanban)
