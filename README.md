@@ -13,7 +13,7 @@
 + **Нагрузочное тестирование** (JMeter): addressbook [JMeter файл](https://github.com/iDevorei/JMeter) 
 + **Мобильное тестирование** (Android):
   - [смотрим траффик](https://github.com/iDevorei/mobile_testing/tree/catch_the_traffic?tab=readme-ov-file). Процесс: [Ссылка](https://youtu.be/13SNW_fT8PI)
-  - [logcat в Android Studio](https://github.com/iDevorei/mobile_testing/tree/Logs-Logcat(Androin-Studio)?tab=readme-ov-file)
+  - [logcat](https://github.com/iDevorei/mobile_testing/tree/Logs-Logcat(Androin-Studio)?tab=readme-ov-file) в Android Studio
 + **HTML, CSS**: [одностраничный лендинг](https://idevorei.github.io/Exam_html_css/), код вёрстки: [ссылка](https://github.com/iDevorei/Exam_html_css)
 + **JavaScript**: [код задач](https://github.com/iDevorei/JS_Homeworks)
 + **Методологии разработки ПО** (Agile, Scrum, Kanban)
