@@ -8,11 +8,12 @@
 ## Skills :pen:
 + **SQL**: [код задач](https://github.com/iDevorei/SQL/blob/main/README.md)
 + **API** (Postman) (REST):
-  - коллекция запростов и тестов [описание](https://github.com/iDevorei/API/tree/main)
+  - коллекция запросов и тестов [описание](https://github.com/iDevorei/API/tree/main)
   - тесты и json-schema [star wars API](https://github.com/iDevorei/API_star_wars)
-+ **Нагрузочное тестирование** (JMeter): [импорт JMeter файла](https://github.com/iDevorei/JMeter) 
++ **Нагрузочное тестирование** (JMeter): addressbook [JMeter файл](https://github.com/iDevorei/JMeter) 
 + **Мобильное тестирование** (Android):
-  - работа с [траффиком](https://github.com/iDevorei/mobile_testing/tree/catch_the_traffic?tab=readme-ov-file). Процесс: [Ссылка](https://youtu.be/13SNW_fT8PI)
+  - [смотрим траффик](https://github.com/iDevorei/mobile_testing/tree/catch_the_traffic?tab=readme-ov-file). Процесс: [Ссылка](https://youtu.be/13SNW_fT8PI)
+  - [logcat в Android Studio](https://github.com/iDevorei/mobile_testing/tree/Logs-Logcat(Androin-Studio)?tab=readme-ov-file)
 + **HTML, CSS**: [одностраничный лендинг](https://idevorei.github.io/Exam_html_css/), код вёрстки: [ссылка](https://github.com/iDevorei/Exam_html_css)
 + **JavaScript**: [код задач](https://github.com/iDevorei/JS_Homeworks)
 + **Методологии разработки ПО** (Agile, Scrum, Kanban)
