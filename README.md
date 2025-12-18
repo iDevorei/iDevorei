@@ -33,8 +33,9 @@
 Visual Studio Code, Git, Github, Github Desktop, Postman, JMeter, Android Studio, Android Debug Bridge(adb), Proxyman, Vysor, Open Server, Chrome DevTools, Clickup, Figma(basic).
 
 ## Образование :scroll:
-* БГУКИ - **Белорусский государственный университет культуры и искусств**: 2014-2018. **Факультет**: ф. информационно-документных коммуникаций. **Специализация**: Библиотечно-информационная деятельность (автоматизация). [proof](https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_01.jpeg)
-* Белхард - **Belhard Academy**: 2025. **Специализация**: Software Testing Engineer. [proof](https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_02.jpeg)
+* **Белорусский государственный университет культуры и искусств**: 2014-2018. **Факультет**: информационно-документных коммуникаций. **Специализация**: Библиотечно-информационная деятельность (автоматизация). [Sertificate](https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_01.jpeg)
+* **My it school**: 2023. **Специализация**: Quality Assurance. [Sertificate](https://drive.google.com/file/d/1ZjsxesH65d9PSNdt-mXy1EkSbeT9wxBg/view?usp=sharing)
+* **Belhard Academy**: 2025. **Специализация**: Software Testing Engineer. [Sertificate](https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_02.jpeg)
 
 ## Soft скилы :handshake:
 Любознательный, целеустремленный, адаптивный, командный игрок.
