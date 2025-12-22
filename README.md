@@ -18,7 +18,7 @@
 + **JavaScript**: [код](https://github.com/iDevorei/JS_Homeworks)
 + **Подходы к разработке ПО** (Agile, Scrum, Kanban)
 + **Техники тест дизайна**:
-   - [классы эквивалентности, граничные значения](https://docs.google.com/spreadsheets/d/1Z7ugUKIrm8t8bT8OrIdlMYkMa-ouNfZO/edit?gid=788685796#gid=788685796)
+   - [классы эквивалентности, граничные значения](https://docs.google.com/spreadsheets/d/127zB7ssRuumlq8eDoK2GUudT0znkFvLG/edit?gid=1702773446#gid=1702773446)
    - [попарное тестирование](https://docs.google.com/spreadsheets/d/1PKEEAiBJbgixdd2xDONkGPqzA01i8dIy/edit?gid=1465317084#gid=1465317084)
 + **Тестовая документация: чек-лист, тест-кейс, баг репорт, тест план**:
   - [Чек-лист](https://docs.google.com/spreadsheets/d/165pgLf36hk7sNHpZMn_qptmEW2PvNLru/edit?gid=1434793168#gid=1434793168) на клавиатуру Logitech
