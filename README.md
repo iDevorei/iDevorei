@@ -23,7 +23,7 @@
 + **Тестовая документация: чек-лист, тест-кейс, баг репорт, тест план**:
   - [Чек-лист](https://docs.google.com/spreadsheets/d/165pgLf36hk7sNHpZMn_qptmEW2PvNLru/edit?gid=1434793168#gid=1434793168) на клавиатуру Logitech
   - [Чек-лист](https://docs.google.com/spreadsheets/d/1bZ7XImtEn4YGj5v1yAi6ROUf6Z3cTZx4vUgW044M0iw/edit?gid=0#gid=0) на калькулятор. [Ссылка](https://drive.google.com/file/d/15b-AUnOxt605LCznbdcj1Op2jDuhjVM4/view?usp=drive_link) на калькулятор
-  - [баг репорт](https://app.clickup.com/90151625861/v/l/6-901515318471-1) на калькулятор
+  - [баг репорт](https://sharing.clickup.com/90151625861/l/h/6-901515318471-1/6df163834c1b066) на калькулятор
   - [баг репорт](https://sharing.clickup.com/90151625861/l/h/6-901515933625-1/100ed181aa7158b) на анкету для оценки качества образования. Анкета [ссылка](https://drive.google.com/drive/folders/1k25RvleZTV72uO_Rp9bqiEnXyBUWcgGT?usp=drive_link)
   - [тест кейсы](https://docs.google.com/spreadsheets/d/1taHEcmh_8KN20FzakYks51O7wNRkgFu1HcezHGmMTcQ/edit?gid=2012493889#gid=2012493889) на анкету для оценки качества образования
   - [тест план](https://docs.google.com/document/d/1OY3mKNuADHSHr_4Z3YBwCSzfTXZxpJ3B24VLiBzNytc/edit?tab=t.0) (искать по имени: Максим)
