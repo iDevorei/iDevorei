@@ -35,7 +35,7 @@ Visual Studio Code, Git, Github, Github Desktop, Postman, JMeter, Android Studio
 ## Образование :scroll:
 * **Белорусский государственный университет культуры и искусств**: 2014-2018. **Факультет**: информационно-документных коммуникаций. **Специализация**: Библиотечно-информационная деятельность (автоматизация). [Sertificate](https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_01.jpeg)
 * **My it school**: 2023. **Специализация**: Quality Assurance. [Sertificate](https://drive.google.com/file/d/1ZjsxesH65d9PSNdt-mXy1EkSbeT9wxBg/view?usp=sharing)
-* **Belhard Academy**: 2025. **Специализация**: Software Testing Engineer. [Sertificate professional](https://drive.google.com/file/d/1Ey7xb3kndRUcgine5kfYoniVJ8vnUz10/view?usp=drive_link), [Sertificate basic](https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_02.jpeg)
+* **Belhard Academy**: 2025. **Специализация**: Software Testing Engineer. [Sertificate](https://drive.google.com/file/d/1Ey7xb3kndRUcgine5kfYoniVJ8vnUz10/view?usp=drive_link) professional, [Sertificate](https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_02.jpeg) basic
 
 ## Soft скилы :handshake:
 Любознательный, целеустремленный, адаптивный, командный игрок.
