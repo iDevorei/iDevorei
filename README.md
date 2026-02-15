@@ -30,7 +30,7 @@
 + **Теория тестирования**
 
 ## Инструменты :hammer_and_wrench:
-Visual Studio Code, Git, Github, Github Desktop, Postman, JMeter, Android Studio, Android Debug Bridge(adb), Proxyman, Vysor, Open Server, Chrome DevTools, Clickup, Figma(basic).
+Visual Studio Code, Trae, Windsurf, Cursor, Zed, Git, Github, Github Desktop, Postman, JMeter, Android Studio, Android Debug Bridge(adb), Proxyman, Vysor, Open Server, Chrome DevTools, Clickup, Figma(basic).
 
 ## Образование :scroll:
 * **Belhard Academy**: 2025. **Специализация**: Software Testing Engineer. [Certificate](https://drive.google.com/file/d/1JZgpAF2p2jCpe0pyhcBEn0QHoYSVzo7E/view?usp=drive_link) professional, [Certificate](https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_02.jpeg) basic
