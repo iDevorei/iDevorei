@@ -38,7 +38,7 @@ Visual Studio Code, Trae, Windsurf, Cursor, Zed, Git, Github, Github Desktop, Po
 * **Белорусский государственный университет культуры и искусств**: 2014-2018. **Факультет**: информационно-документных коммуникаций. **Специализация**: Библиотечно-информационная деятельность (автоматизация). [Certificate](https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_01.jpeg)
 
 ## Soft скилы :handshake:
-Любознательный, целеустремленный, адаптивный, командный игрок.
+In progress...
 
 ## Языки :white_flag:
 |Русский :ru: |Белорусский :belarus: |Английский :uk: |
